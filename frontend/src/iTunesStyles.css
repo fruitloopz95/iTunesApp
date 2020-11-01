@@ -1,0 +1,51 @@
+#root {
+    background-color: black;
+}
+
+.FavsTopRight {
+    position: absolute;
+    top: 15px;
+    right: 22px;
+}
+
+.App {}
+
+.SearchComp {
+    padding-top: 45px;
+    padding-bottom: 100px;
+}
+
+.SearchInputs {
+    padding-top: 15px;
+}
+
+.searchField {
+    margin: 5px;
+}
+
+.searchType {
+    margin: 2px;
+}
+
+.searchButton {
+    margin: 2px;
+}
+
+.NoFavs {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 200px;
+    padding-bottom: 500px;
+    width: 500px;
+    color: white;
+
+}
+
+.backToSearchBtn {
+    padding-top: 15px;
+}
+
+.Filler {
+    padding-bottom: 100%;
+    color: white;
+}
